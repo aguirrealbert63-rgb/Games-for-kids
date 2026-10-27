@@ -1,0 +1,8 @@
+{
+  "name": "Let's Move and Dance! - 3D Kids Nursery Rhyme",
+  "description": "High-quality 3D animated musical nursery rhyme and dance-along experience for toddlers and preschool children with video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
